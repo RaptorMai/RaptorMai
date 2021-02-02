@@ -4,7 +4,7 @@ My name is Zheda(Marco) Mai, and I am a master student from the Data-Driven Deci
 
 I am currently actively looking for machine learning engineer and data scientist positions.
 
-You can find more information about me at my [personal page](https://zheda-mai.github.io/).
+You can find more information about me at my personal page: https://zheda-mai.github.io/.
 
 You can contact me at zheda.mai@mail.utoronto.ca or by [LinkedIn](https://www.linkedin.com/in/marco-zheda-mai-574a0b85/).
 
