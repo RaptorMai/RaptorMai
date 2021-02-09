@@ -15,6 +15,8 @@ You can contact me at zheda.mai@mail.utoronto.ca or by [LinkedIn](https://www.li
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raptormai&repo=Deep-AutoEncoder-Recommendation&)](https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raptormai&repo=online-continual-learning&)](https://github.com/RaptorMai/online-continual-learning)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raptormai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
