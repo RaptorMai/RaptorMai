@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Zheda(Marco) Mai, and I am a master student from the Data-Driven Decision Making Lab (D3M) at the University of Toronto. My research interests lie primarily in Continual Learning in Computer Vision, and Recommender System. 
+My name is Zheda(Marco) Mai, and I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) advised by [Prof. Scott Sanner](https://d3m.mie.utoronto.ca/members/ssanner/), where I mostly worked on Continual Learning and Recommender Systems.
+
+Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
 
 You can find more information about me at my personal page: https://zheda-mai.github.io/.
 
