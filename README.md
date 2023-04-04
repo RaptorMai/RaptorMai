@@ -9,7 +9,7 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 
 You can find more information about me at my personal page: https://zheda-mai.github.io/.
 
-You can contact me at zheda.mai@mail.utoronto.ca or by [LinkedIn](https://www.linkedin.com/in/marco-zheda-mai-574a0b85/).
+You can contact me at mai.145@osu.edu or by [LinkedIn](https://www.linkedin.com/in/marco-zheda-mai-574a0b85/).
 
 ![Zheda's github stats](https://github-readme-stats.vercel.app/api?username=raptormai&show_icons=true&count_private=true&include_all_commits=true)
 
