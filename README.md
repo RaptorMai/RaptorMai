@@ -5,7 +5,7 @@ My name is Zheda(Marco) Mai, and I am a third-year Ph.D. student from the Depart
 
 
 ```diff
-+ I am actively looking for a research internship! Please contact me if you an
++ I am actively looking for a research internship! 
 + If you are aware of any opportunities or have any recommendations,
 + I would greatly appreciate your insights and referrals. Please feel free to reach out!
 ```
