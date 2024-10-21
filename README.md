@@ -20,6 +20,8 @@ You can contact me at mai.145@osu.edu or by [LinkedIn](https://www.linkedin.com/
 
 ![Zheda's github stats](https://github-readme-stats.vercel.app/api?username=raptormai&show_icons=true&count_private=true&include_all_commits=true)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RaptorMai&repo=CompBench&)](https://github.com/RaptorMai/CompBench)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OSU-MLB&repo=PETL_Vision&)](https://github.com/OSU-MLB/PETL_Vision)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raptormai&repo=online-continual-learning&)](https://github.com/RaptorMai/online-continual-learning)
