@@ -1,8 +1,5 @@
-### Hi there 👋
 
-
-My name is Zheda(Marco) Mai, and I am a third-year Ph.D. student from the Department of Computer Science and Engineering at the Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in **Efficient Foundation Model Adaptation** (CVPR23, NeurIPS23, NeurIPS24), **Multimodal LLM** (NeurIPS24), **Continual Learning** (AAAI-21, CVPR21-W, Neurocomputing, 1st place of CVPR20-Competition, AIJ), **Learning with Imperfect Data** (NeurIPS23-W). 
-
+My name is Zheda(Marco) Mai, and I am a third-year Ph.D. student from the Department of Computer Science and Engineering at the Ohio State University, advised by Professor [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao). My research interests lie in **Efficient Foundation Model Adaptation**, **Multimodal LLM**, **Continual Learning**. You can find more information about me at my personal page: https://zheda-mai.github.io/.
 
 ```diff
 + I am actively looking for a research internship! 
@@ -14,15 +11,13 @@ I obtained my MASc. from the [University of Toronto](https://www.utoronto.ca/) a
 
 Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto, where I was fortunate to work with [Dr. Erkang Zhu](http://ekzhu.com/).
 
-You can find more information about me at my personal page: https://zheda-mai.github.io/.
-
 You can contact me at mai.145@osu.edu or by [LinkedIn](https://www.linkedin.com/in/zheda-mai-574a0b85/).
 
 ![Zheda's github stats](https://github-readme-stats.vercel.app/api?username=raptormai&show_icons=true&count_private=true&include_all_commits=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RaptorMai&repo=CompBench&)](https://github.com/RaptorMai/CompBench)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OSU-MLB&repo=ViT_PEFT_Vision&)](https://github.com/OSU-MLB/ViT_PEFT_Vision)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OSU-MLB&repo=PETL_Vision&)](https://github.com/OSU-MLB/PETL_Vision)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RaptorMai&repo=CompBench&)](https://github.com/RaptorMai/CompBench)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raptormai&repo=online-continual-learning&)](https://github.com/RaptorMai/online-continual-learning)
 
