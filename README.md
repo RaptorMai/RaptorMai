@@ -13,7 +13,7 @@ Prior to that, I  completed my BASc. in [Engineering Science](https://engsci.uto
 
 You can contact me at mai.145@osu.edu or by [LinkedIn](https://www.linkedin.com/in/zheda-mai-574a0b85/).
 
-![Zheda's github stats](https://github-readme-stats.vercel.app/api?username=raptormai&show_icons=true&count_private=true&include_all_commits=true)
+![Zheda's github stats](https://github-readme-stats.vercel.app/api?username=raptormai&h&show_icons=true&count_private=true&include_all_commits=true)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OSU-MLB&repo=ViT_PEFT_Vision&)](https://github.com/OSU-MLB/ViT_PEFT_Vision)
 
